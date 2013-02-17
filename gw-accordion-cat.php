@@ -5,7 +5,7 @@
 /*
 Plugin Name: GW Accordion Cat
 Description: A plugin to create an accordion of categories with a shortcode
-Version: 1.2
+Version: 1.3
 Author: Gray Kales (Grayworld Media)
 Author URI: http://grayworld.com
 */

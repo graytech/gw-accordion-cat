@@ -4,7 +4,7 @@
 <?php foreach ($catlist as $cat): ?>
 <div class="gwaccat-cat">
     <div class="gwaccat-cat-header">
-        <div class="gwaccat-icon">-</div>
+        <div class="gwaccat-icon">+</div>
         <?=$cat->name?>
     </div>
     <div class="gwaccat-cat-body<?php if ($cat->slug == $startingcat) echo ' gwaccat-cat-start';?>">
