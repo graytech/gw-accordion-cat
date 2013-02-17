@@ -4,7 +4,7 @@ GW Accorian Cat
 <h2>Description</h2>
 
 <p>
-	This plugin allows a user to create an accordion display of categories and posts using a short tag on their page or post.
+	This Wordpress plugin allows a user to create an accordion display of categories and posts using a short tag on their page or post.
 </p>
 
 <h2>Setup</h2>
