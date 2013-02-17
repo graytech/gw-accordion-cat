@@ -1,7 +1,5 @@
-gw-accordion-cat
-================
-
 GW Accorian Cat
+===============
 
 <h2>Description</h2>
 
